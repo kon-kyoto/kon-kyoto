@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👁️🗨️ kon-kyoto
 
-<!--
-**kon-kyoto/kon-kyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Фокусировка. Наблюдение. Защита.*
 
-Here are some ideas to get you started:
+**kon-kyoto** — это моя личная экосистема инструментов для безопасности, автоматизации и глубокого понимания систем.  
+Этот репозиторий — точка входа. Здесь я собираю документацию, концепты и связующие звенья между моими проектами.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Компоненты
+
+| Проект | Назначение | Стек |
+|--------|------------|------|
+| [`wifi_sentinel`](https://github.com/kon-kyoto/wifi_sentinel) | Пассивный профайлер трафика | Python |
+| [`arch_config`](https://github.com/kon-kyoto/arch_config) | Arch + BlackArch + Hyprland (Wayland) для пентеста | QML, конфиги |
+| [`c2bash`](https://github.com/kon-kyoto/c2bash) | Мои C-знания, обёрнутые в bash-команды | C, bash |
+| [`logwatch`](https://github.com/kon-kyoto/logwatch) | Демон мониторинга процессов (inotify + syslog) | Makefile, C |
+
+## 🧠 Философия
+
+Есть черная магия есть 
+
+## 📬 Контакт
+
+Ты нашёл ошибку? Хочешь предложить идею? Создавай issue. Я читаю.  
+(Но отвечаю, только если баг забавный.)
+
+## 📜 Лицензия
+
+MIT. Бери, ломай, чини, но не приходи потом плакаться.
