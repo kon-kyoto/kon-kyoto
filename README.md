@@ -1,28 +1,28 @@
 # kyoto
 
-> *«Я не пишу плохой код — я создаю ситуации для обучения на ошибках.»*
+> *"I don't write bad code — I create learning opportunities from mistakes."*
 
-**kon-kyoto** — это моя личная экосистема инструментов для безопасности, автоматизации и глубокого понимания систем.  
-Этот репозиторий — точка входа. Здесь я собираю документацию, концепты и связующие звенья между моими проектами.
+**kon-kyoto** is my personal ecosystem of tools for security, automation, and deep system understanding.  
+This repository is the entry point. Here I collect documentation, concepts, and the connecting links between my projects.
 
-## 🧩 То над чем я работаю:
+## 🧩 What I'm working on:
 
-| Проект | Назначение | Стек |
-|--------|------------|------|
-| [`wifi_sentinel`](https://github.com/kon-kyoto/wifi_sentinel) | Пассивный профайлер трафика | Python |
-| [`arch_config`](https://github.com/kon-kyoto/arch_config) | Arch + BlackArch + Hyprland (Wayland) для пентеста | QML, конфиги |
-| [`c2bash`](https://github.com/kon-kyoto/c2bash) | Мои C-знания, обёрнутые в bash-команды | C, bash |
-| [`logwatch`](https://github.com/kon-kyoto/logwatch) | Демон мониторинга процессов (inotify + syslog) | Makefile, C |
+| Project | Purpose | Stack |
+|---------|---------|-------|
+| [`wifi_sentinel`](https://github.com/kon-kyoto/wifi_sentinel) | Passive traffic profiler | Python, scipy |
+| [`arch_config`](https://github.com/kon-kyoto/arch_config) | Arch + BlackArch + Hyprland (Wayland) for pentesting | configs |
+| [`c2bash`](https://github.com/kon-kyoto/c2bash) | My C knowledge wrapped in bash commands | C, bash, tests |
+| [`logwatch`](https://github.com/kon-kyoto/logwatch) | Process monitoring daemon (inotify + syslog) | Makefile, python, tests |
 
-## 🧠 Философия
+## 🧠 Philosophy
 
-Есть черная магия есть 
+There is black magic. Period.
 
-## 📬 Контакт
+## 📬 Contact
 
-Ты нашёл ошибку? Хочешь предложить идею? Создавай issue. Я читаю.  
-(Но отвечаю, только если баг забавный.)
+Found a bug? Have an idea? Open an issue. I read them all.  
+(But I only reply if the bug is amusing.)
 
-## 📜 Лицензия
+## 📜 License
 
-MIT. Бери, ломай, чини, но не приходи потом плакаться.
+MIT. Take it, break it, fix it.
