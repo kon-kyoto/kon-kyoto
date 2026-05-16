@@ -1,4 +1,4 @@
-# kyoto
+# intro
 
 > *"I don't write bad code — I create learning opportunities from mistakes."*
 
