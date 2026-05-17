@@ -16,10 +16,12 @@ This repository is the entry point. Here I collect documentation, concepts, and 
 
 ### My OS config:
 | Project | Purpose | Stack |
+|---------|---------|-------|
 | [`arch_config`](https://github.com/kon-kyoto/arch_config) | Arch + BlackArch + Hyprland (Wayland) for pentesting | configs |
 
 ### My study projects:
 | Project | Purpose | Stack |
+|---------|---------|-------|
 | [`c2bash`](https://github.com/kon-kyoto/c2bash) | My C knowledge wrapped in bash commands | C, bash, tests |
 | [`docker`](https://github.com/kon-kyoto/train_container) | My Docker knowledge | docker, python |
 
