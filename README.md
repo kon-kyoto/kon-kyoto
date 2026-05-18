@@ -23,7 +23,7 @@ This repository is the entry point. Here I collect documentation, concepts, and 
 | Project | Purpose | Stack |
 |---------|---------|-------|
 | [`c2bash`](https://github.com/kon-kyoto/c2bash) | My C knowledge wrapped in bash commands | C, bash, tests |
-| [`docker`](https://github.com/kon-kyoto/train_container) | My Docker knowledge | docker, python |
+| [`docker`](https://github.com/kon-kyoto/microservices-lab) | My Docker knowledge | docker, python |
 
 
 ## 🧠 Philosophy
