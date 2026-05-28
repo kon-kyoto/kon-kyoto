@@ -23,7 +23,7 @@ This repository is the entry point. Here I collect documentation, concepts, and 
 | Project | Purpose | Stack |
 |---------|---------|-------|
 | [`c2bash`](https://github.com/kon-kyoto/c2bash) | My C knowledge wrapped in bash commands | C, bash, tests |
-| [`microservices_lab`](https://github.com/kon-kyoto/microservices_lab)| My microservices app | docker, nginx, flask python |
+| [`microservices_lab`](https://github.com/kon-kyoto/microservices_lab)| My microservices app | docker, nginx, flask, python, redis |
 
 
 ## 🧠 Philosophy
